@@ -1,0 +1,32 @@
+header{
+    background-color: greenyellow;
+    text-align: center;
+}
+footer{
+    background-color: red;
+    margin: 30px;
+    padding: 50px;
+    
+}
+main{
+    height: 500px;
+}
+div{
+    margin: 0;
+    width:  49.5%;
+    height: 495px;
+    display: inline-block;
+    background-color: brown;
+}
+body{
+    margin: 0;
+}
+ul{
+    display: flex ;
+}
+li{
+    flex-grow: 1;
+    list-style: none;
+}
+p{text-align: center;}
+a{text-decoration: none;}
